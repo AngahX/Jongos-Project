@@ -24,6 +24,7 @@ namespace Telegram_Flood_Bot
             int counter = 0;
             bool ok = false;
 
+
             Console.Write("token: ");
             token = Console.ReadLine();
 
